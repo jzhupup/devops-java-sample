@@ -4,6 +4,8 @@ pipeline {
       label 'maven'
     }
   }
+  dsdrrerjeiji
+  djisjdisjdisd
 
     parameters {
         string(name:'TAG_NAME',defaultValue: '',description:'')
