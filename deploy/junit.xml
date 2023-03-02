@@ -1,0 +1,510 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+    <testsuite name="src/components/loading/test/utils.spec.ts" timestamp="2022-12-14T03:30:38.987Z" hostname="sulinghaodeMacBook-Pro.local" tests="27" failures="0" errors="0" skipped="0" time="0.058">
+        <testcase classname="src/components/loading/test/utils.spec.ts" name="test utils function &gt; test resolveAttribute &gt; test zero props" time="0.014">
+        </testcase>
+        <testcase classname="src/components/loading/test/utils.spec.ts" name="test utils function &gt; test resolveAttribute &gt; test single props" time="0.001">
+        </testcase>
+        <testcase classname="src/components/loading/test/utils.spec.ts" name="test utils function &gt; test resolveAttribute &gt; test multiple props" time="0">
+        </testcase>
+        <testcase classname="src/components/loading/test/utils.spec.ts" name="test utils function &gt; test get props &gt; test get value" time="0">
+        </testcase>
+        <testcase classname="src/components/loading/test/utils.spec.ts" name="test utils function &gt; test get props &gt; test get multi value" time="0.001">
+        </testcase>
+        <testcase classname="src/components/loading/test/utils.spec.ts" name="test utils function &gt; test set props &gt; test set value" time="0">
+        </testcase>
+        <testcase classname="src/components/loading/test/utils.spec.ts" name="test utils function &gt; test set props &gt; test set multi value" time="0">
+        </testcase>
+        <testcase classname="src/components/loading/test/utils.spec.ts" name="test utils function &gt; test setupTarget &gt; test default props and clean dom" time="0.025">
+        </testcase>
+        <testcase classname="src/components/loading/test/utils.spec.ts" name="test utils function &gt; test setupTarget &gt; test default props and dom with overflow" time="0.002">
+        </testcase>
+        <testcase classname="src/components/loading/test/utils.spec.ts" name="test utils function &gt; test setupTarget &gt; test default props and dom with position" time="0.002">
+        </testcase>
+        <testcase classname="src/components/loading/test/utils.spec.ts" name="test utils function &gt; test setupTarget &gt; test fullscreen props and dom with position" time="0.002">
+        </testcase>
+        <testcase classname="src/components/loading/test/utils.spec.ts" name="test utils function &gt; test setupTarget &gt; test fullscreen props and body with overflow" time="0.001">
+        </testcase>
+        <testcase classname="src/components/loading/test/utils.spec.ts" name="test utils function &gt; test setupTarget &gt; test fullscreen props without lock and dom with position" time="0.001">
+        </testcase>
+        <testcase classname="src/components/loading/test/utils.spec.ts" name="test utils function &gt; test resetTarget &gt; test oriPosition" time="0.001">
+        </testcase>
+        <testcase classname="src/components/loading/test/utils.spec.ts" name="test utils function &gt; test resetTarget &gt; test oriOverflow" time="0.001">
+        </testcase>
+        <testcase classname="src/components/loading/test/utils.spec.ts" name="test utils function &gt; test resetTarget &gt; test oriBodyOverflow" time="0.001">
+        </testcase>
+        <testcase classname="src/components/loading/test/utils.spec.ts" name="test utils function &gt; test resolveRoot &gt; node is isolated" time="0">
+        </testcase>
+        <testcase classname="src/components/loading/test/utils.spec.ts" name="test utils function &gt; test resolveRoot &gt; node in document" time="0.001">
+        </testcase>
+        <testcase classname="src/components/loading/test/utils.spec.ts" name="test utils function &gt; test resolveRoot &gt; node in shadow dom" time="0">
+        </testcase>
+        <testcase classname="src/components/loading/test/utils.spec.ts" name="test utils function &gt; test resolveTarget &gt; test props target is HTMLElement" time="0.001">
+        </testcase>
+        <testcase classname="src/components/loading/test/utils.spec.ts" name="test utils function &gt; test resolveTarget &gt; test props target is ref" time="0.001">
+        </testcase>
+        <testcase classname="src/components/loading/test/utils.spec.ts" name="test utils function &gt; test resolveTrueTarget &gt; test props target is body and fullscreen is false" time="0">
+        </testcase>
+        <testcase classname="src/components/loading/test/utils.spec.ts" name="test utils function &gt; test resolveTrueTarget &gt; test props target is body and fullscreen is true" time="0">
+        </testcase>
+        <testcase classname="src/components/loading/test/utils.spec.ts" name="test utils function &gt; test resolveTrueTarget &gt; test props target is htmlElement and fullscreen is false" time="0">
+        </testcase>
+        <testcase classname="src/components/loading/test/utils.spec.ts" name="test utils function &gt; test resolveTrueTarget &gt; test props target is htmlElement and fullscreen is true" time="0.001">
+        </testcase>
+        <testcase classname="src/components/loading/test/utils.spec.ts" name="test utils function &gt; test resolveTrueTarget &gt; test props target is ref and fullscreen is false" time="0">
+        </testcase>
+        <testcase classname="src/components/loading/test/utils.spec.ts" name="test utils function &gt; test resolveTrueTarget &gt; test props target is ref and fullscreen is false" time="0.001">
+        </testcase>
+    </testsuite>
+    <testsuite name="src/components/noty/test/noty.spec.ts" timestamp="2022-12-14T03:30:39.015Z" hostname="sulinghaodeMacBook-Pro.local" tests="10" failures="0" errors="0" skipped="0" time="0.053">
+        <testcase classname="src/components/noty/test/noty.spec.ts" name="test noty &gt; test findContainer &gt; test find dom in document" time="0.011">
+        </testcase>
+        <testcase classname="src/components/noty/test/noty.spec.ts" name="test noty &gt; test findContainer &gt; test find dom in document" time="0">
+        </testcase>
+        <testcase classname="src/components/noty/test/noty.spec.ts" name="test noty &gt; test findContainer &gt; test create container in shadow dom" time="0.001">
+        </testcase>
+        <testcase classname="src/components/noty/test/noty.spec.ts" name="test noty &gt; test findContainer &gt; test find container in shadow dom" time="0.001">
+        </testcase>
+        <testcase classname="src/components/noty/test/noty.spec.ts" name="test noty &gt; test findContainer &gt; test find container in shadow dom for body" time="0.001">
+        </testcase>
+        <testcase classname="src/components/noty/test/noty.spec.ts" name="test noty &gt; test noty &gt; test title &amp; content" time="0.012">
+        </testcase>
+        <testcase classname="src/components/noty/test/noty.spec.ts" name="test noty &gt; test noty &gt; test close" time="0.005">
+        </testcase>
+        <testcase classname="src/components/noty/test/noty.spec.ts" name="test noty &gt; test noty &gt; test noty count greater than 4 wait for" time="0.01">
+        </testcase>
+        <testcase classname="src/components/noty/test/noty.spec.ts" name="test noty &gt; test noty &gt; test show close" time="0.006">
+        </testcase>
+        <testcase classname="src/components/noty/test/noty.spec.ts" name="test noty &gt; test noty &gt; test dangerouslyUseHTMLString" time="0.006">
+        </testcase>
+    </testsuite>
+    <testsuite name="src/components/stepper/test/stepper.spec.ts" timestamp="2022-12-14T03:30:39.015Z" hostname="sulinghaodeMacBook-Pro.local" tests="8" failures="0" errors="0" skipped="0" time="0.041">
+        <testcase classname="src/components/stepper/test/stepper.spec.ts" name="Stepper component &gt; test props steps" time="0.019">
+        </testcase>
+        <testcase classname="src/components/stepper/test/stepper.spec.ts" name="Stepper component &gt; test props steps" time="0.005">
+        </testcase>
+        <testcase classname="src/components/stepper/test/stepper.spec.ts" name="Stepper component &gt; test props curStepIdx" time="0.005">
+        </testcase>
+        <testcase classname="src/components/stepper/test/stepper.spec.ts" name="Stepper component &gt; test slot icon" time="0.003">
+        </testcase>
+        <testcase classname="src/components/stepper/test/stepper.spec.ts" name="Stepper component &gt; test slot label" time="0.002">
+        </testcase>
+        <testcase classname="src/components/stepper/test/stepper.spec.ts" name="Stepper component &gt; test slot steps" time="0.001">
+        </testcase>
+        <testcase classname="src/components/stepper/test/stepper.spec.ts" name="Stepper component &gt; test slot steps" time="0.002">
+        </testcase>
+        <testcase classname="src/components/stepper/test/stepper.spec.ts" name="Stepper component &gt; test slot steps" time="0.003">
+        </testcase>
+    </testsuite>
+    <testsuite name="src/components/loading/test/loading.spec.ts" timestamp="2022-12-14T03:30:39.016Z" hostname="sulinghaodeMacBook-Pro.local" tests="4" failures="0" errors="0" skipped="0" time="0.092">
+        <testcase classname="src/components/loading/test/loading.spec.ts" name="test loading &gt; use loading &gt; test use loading" time="0.04">
+        </testcase>
+        <testcase classname="src/components/loading/test/loading.spec.ts" name="test loading &gt; directives loading &gt; create directive" time="0.01">
+        </testcase>
+        <testcase classname="src/components/loading/test/loading.spec.ts" name="test loading &gt; directives loading &gt; unmounted directive" time="0.026">
+        </testcase>
+        <testcase classname="src/components/loading/test/loading.spec.ts" name="test loading &gt; directives loading &gt; complex attribute directive" time="0.016">
+        </testcase>
+    </testsuite>
+    <testsuite name="src/components/multi-row-editor/test/multi-row-editor.spec.ts" timestamp="2022-12-14T03:30:39.016Z" hostname="sulinghaodeMacBook-Pro.local" tests="25" failures="0" errors="0" skipped="0" time="0.349">
+        <testcase classname="src/components/multi-row-editor/test/multi-row-editor.spec.ts" name="multi-row-editor test props: &gt; columns &amp; modelValue &gt; default" time="0.014">
+        </testcase>
+        <testcase classname="src/components/multi-row-editor/test/multi-row-editor.spec.ts" name="multi-row-editor test props: &gt; columns &amp; modelValue &gt; custom settings with modelValue props &gt; input ele" time="0.001">
+        </testcase>
+        <testcase classname="src/components/multi-row-editor/test/multi-row-editor.spec.ts" name="multi-row-editor test props: &gt; columns &amp; modelValue &gt; custom settings with modelValue props &gt; placeholder" time="0.001">
+        </testcase>
+        <testcase classname="src/components/multi-row-editor/test/multi-row-editor.spec.ts" name="multi-row-editor test props: &gt; columns &amp; modelValue &gt; custom settings with modelValue props &gt; modelValue value" time="0.001">
+        </testcase>
+        <testcase classname="src/components/multi-row-editor/test/multi-row-editor.spec.ts" name="multi-row-editor test props: &gt; columns &amp; modelValue &gt; custom settings with modelValue props &gt; defaultValue" time="0.001">
+        </testcase>
+        <testcase classname="src/components/multi-row-editor/test/multi-row-editor.spec.ts" name="multi-row-editor test props: &gt; showLabel &gt; will not have label when data empty" time="0.002">
+        </testcase>
+        <testcase classname="src/components/multi-row-editor/test/multi-row-editor.spec.ts" name="multi-row-editor test props: &gt; showLabel &gt; will have label when data is not empty" time="0.005">
+        </testcase>
+        <testcase classname="src/components/multi-row-editor/test/multi-row-editor.spec.ts" name="multi-row-editor test props: &gt; showLabel &gt; false" time="0.001">
+        </testcase>
+        <testcase classname="src/components/multi-row-editor/test/multi-row-editor.spec.ts" name="multi-row-editor test props: &gt; addText" time="0.003">
+        </testcase>
+        <testcase classname="src/components/multi-row-editor/test/multi-row-editor.spec.ts" name="multi-row-editor test props: &gt; addDisabled &gt; true" time="0.003">
+        </testcase>
+        <testcase classname="src/components/multi-row-editor/test/multi-row-editor.spec.ts" name="multi-row-editor test props: &gt; addDisabled &gt; false" time="0.011">
+        </testcase>
+        <testcase classname="src/components/multi-row-editor/test/multi-row-editor.spec.ts" name="multi-row-editor test props: &gt; addDisabled &gt; function" time="0.002">
+        </testcase>
+        <testcase classname="src/components/multi-row-editor/test/multi-row-editor.spec.ts" name="multi-row-editor test props: &gt; limit &gt; add button is clickable" time="0.006">
+        </testcase>
+        <testcase classname="src/components/multi-row-editor/test/multi-row-editor.spec.ts" name="multi-row-editor test props: &gt; limit &gt; add button will disabled when limit" time="0.005">
+        </testcase>
+        <testcase classname="src/components/multi-row-editor/test/multi-row-editor.spec.ts" name="multi-row-editor test props: &gt; validator &gt; default validator will pass" time="0.009">
+        </testcase>
+        <testcase classname="src/components/multi-row-editor/test/multi-row-editor.spec.ts" name="multi-row-editor test props: &gt; validator &gt; custom validator set valid false" time="0.023">
+        </testcase>
+        <testcase classname="src/components/multi-row-editor/test/multi-row-editor.spec.ts" name="multi-row-editor test props: &gt; unremovableRow &gt; empty unremovableRow " time="0.004">
+        </testcase>
+        <testcase classname="src/components/multi-row-editor/test/multi-row-editor.spec.ts" name="multi-row-editor test props: &gt; unremovableRow &gt; custom unremovableRow return true" time="0.005">
+        </testcase>
+        <testcase classname="src/components/multi-row-editor/test/multi-row-editor.spec.ts" name="multi-row-editor test event: &gt; add &amp; change &amp;&amp; exceed" time="0.152">
+        </testcase>
+        <testcase classname="src/components/multi-row-editor/test/multi-row-editor.spec.ts" name="multi-row-editor test event: &gt; input emit valid" time="0.031">
+        </testcase>
+        <testcase classname="src/components/multi-row-editor/test/multi-row-editor.spec.ts" name="multi-row-editor test event: &gt; remove &amp; update:modelValue &amp; change" time="0.066">
+        </testcase>
+        <testcase classname="src/components/multi-row-editor/test/multi-row-editor.spec.ts" name="multi-row-editor test slots : default &amp; custom &gt; custom column" time="0">
+        </testcase>
+        <testcase classname="src/components/multi-row-editor/test/multi-row-editor.spec.ts" name="multi-row-editor test slots : default &amp; custom &gt; custom label" time="0">
+        </testcase>
+        <testcase classname="src/components/multi-row-editor/test/multi-row-editor.spec.ts" name="multi-row-editor test slots : default &amp; custom &gt; error-info" time="0.001">
+        </testcase>
+        <testcase classname="src/components/multi-row-editor/test/multi-row-editor.spec.ts" name="multi-row-editor test slots : default &amp; custom &gt; footer-right will not render when has footer slot" time="0">
+        </testcase>
+    </testsuite>
+    <testsuite name="src/components/state-icon/test/state-icon.spec.ts" timestamp="2022-12-14T03:30:39.018Z" hostname="sulinghaodeMacBook-Pro.local" tests="15" failures="0" errors="0" skipped="0" time="0.059">
+        <testcase classname="src/components/state-icon/test/state-icon.spec.ts" name="StateIcon component &gt; render type prop: default" time="0.015">
+        </testcase>
+        <testcase classname="src/components/state-icon/test/state-icon.spec.ts" name="StateIcon component &gt; render type prop: info" time="0.002">
+        </testcase>
+        <testcase classname="src/components/state-icon/test/state-icon.spec.ts" name="StateIcon component &gt; render type prop: success" time="0.001">
+        </testcase>
+        <testcase classname="src/components/state-icon/test/state-icon.spec.ts" name="StateIcon component &gt; render type prop: warning" time="0.001">
+        </testcase>
+        <testcase classname="src/components/state-icon/test/state-icon.spec.ts" name="StateIcon component &gt; render type prop: error" time="0.001">
+        </testcase>
+        <testcase classname="src/components/state-icon/test/state-icon.spec.ts" name="StateIcon component &gt; render type prop: spin" time="0.002">
+        </testcase>
+        <testcase classname="src/components/state-icon/test/state-icon.spec.ts" name="StateIcon component &gt; render icon prop: default" time="0.002">
+        </testcase>
+        <testcase classname="src/components/state-icon/test/state-icon.spec.ts" name="StateIcon component &gt; render icon prop: info" time="0.002">
+        </testcase>
+        <testcase classname="src/components/state-icon/test/state-icon.spec.ts" name="StateIcon component &gt; render icon prop: success" time="0.003">
+        </testcase>
+        <testcase classname="src/components/state-icon/test/state-icon.spec.ts" name="StateIcon component &gt; render icon prop: warning" time="0.004">
+        </testcase>
+        <testcase classname="src/components/state-icon/test/state-icon.spec.ts" name="StateIcon component &gt; render icon prop: error" time="0.003">
+        </testcase>
+        <testcase classname="src/components/state-icon/test/state-icon.spec.ts" name="StateIcon component &gt; render icon prop: spin" time="0.002">
+        </testcase>
+        <testcase classname="src/components/state-icon/test/state-icon.spec.ts" name="StateIcon component &gt; props icon size" time="0.008">
+        </testcase>
+        <testcase classname="src/components/state-icon/test/state-icon.spec.ts" name="StateIcon component &gt; no default slot" time="0.002">
+        </testcase>
+        <testcase classname="src/components/state-icon/test/state-icon.spec.ts" name="StateIcon component &gt; render slot and empty type" time="0.009">
+        </testcase>
+    </testsuite>
+    <testsuite name="src/components/key-value-layout/test/key-value-layout.spec.ts" timestamp="2022-12-14T03:30:39.019Z" hostname="sulinghaodeMacBook-Pro.local" tests="5" failures="0" errors="0" skipped="0" time="2.18">
+        <testcase classname="src/components/key-value-layout/test/key-value-layout.spec.ts" name="KeyValue-layout Component &gt; render data props" time="0.682">
+            <system-err>
+[Vue warn]: Maximum recursive updates exceeded in component &lt;DaoTooltip&gt;. This means you have a reactive effect that is mutating its own dependencies and thus recursively triggering itself. Possible sources include component template, render function, updated hook or watcher source function.
+[Vue warn]: Maximum recursive updates exceeded in component &lt;DaoTooltip&gt;. This means you have a reactive effect that is mutating its own dependencies and thus recursively triggering itself. Possible sources include component template, render function, updated hook or watcher source function.
+[Vue warn]: Maximum recursive updates exceeded in component &lt;DaoTooltip&gt;. This means you have a reactive effect that is mutating its own dependencies and thus recursively triggering itself. Possible sources include component template, render function, updated hook or watcher source function.
+[Vue warn]: Maximum recursive updates exceeded in component &lt;DaoTooltip&gt;. This means you have a reactive effect that is mutating its own dependencies and thus recursively triggering itself. Possible sources include component template, render function, updated hook or watcher source function.
+[Vue warn]: Maximum recursive updates exceeded in component &lt;DaoTooltip&gt;. This means you have a reactive effect that is mutating its own dependencies and thus recursively triggering itself. Possible sources include component template, render function, updated hook or watcher source function.
+[Vue warn]: Maximum recursive updates exceeded in component &lt;DaoTooltip&gt;. This means you have a reactive effect that is mutating its own dependencies and thus recursively triggering itself. Possible sources include component template, render function, updated hook or watcher source function.
+[Vue warn]: Maximum recursive updates exceeded in component &lt;DaoTooltip&gt;. This means you have a reactive effect that is mutating its own dependencies and thus recursively triggering itself. Possible sources include component template, render function, updated hook or watcher source function.
+[Vue warn]: Maximum recursive updates exceeded in component &lt;DaoTooltip&gt;. This means you have a reactive effect that is mutating its own dependencies and thus recursively triggering itself. Possible sources include component template, render function, updated hook or watcher source function.
+[Vue warn]: Maximum recursive updates exceeded in component &lt;DaoTooltip&gt;. This means you have a reactive effect that is mutating its own dependencies and thus recursively triggering itself. Possible sources include component template, render function, updated hook or watcher source function.
+[Vue warn]: Maximum recursive updates exceeded in component &lt;DaoTooltip&gt;. This means you have a reactive effect that is mutating its own dependencies and thus recursively triggering itself. Possible sources include component template, render function, updated hook or watcher source function.
+[Vue warn]: Maximum recursive updates exceeded in component &lt;DaoTooltip&gt;. This means you have a reactive effect that is mutating its own dependencies and thus recursively triggering itself. Possible sources include component template, render function, updated hook or watcher source function.
+[Vue warn]: Maximum recursive updates exceeded in component &lt;DaoTooltip&gt;. This means you have a reactive effect that is mutating its own dependencies and thus recursively triggering itself. Possible sources include component template, render function, updated hook or watcher source function.
+[Vue warn]: Maximum recursive updates exceeded in component &lt;DaoTooltip&gt;. This means you have a reactive effect that is mutating its own dependencies and thus recursively triggering itself. Possible sources include component template, render function, updated hook or watcher source function.
+[Vue warn]: Maximum recursive updates exceeded in component &lt;DaoTooltip&gt;. This means you have a reactive effect that is mutating its own dependencies and thus recursively triggering itself. Possible sources include component template, render function, updated hook or watcher source function.
+
+            </system-err>
+        </testcase>
+        <testcase classname="src/components/key-value-layout/test/key-value-layout.spec.ts" name="KeyValue-layout Component &gt; render column props" time="0.627">
+            <system-err>
+[Vue warn]: Maximum recursive updates exceeded in component &lt;DaoTooltip&gt;. This means you have a reactive effect that is mutating its own dependencies and thus recursively triggering itself. Possible sources include component template, render function, updated hook or watcher source function.
+[Vue warn]: Maximum recursive updates exceeded in component &lt;DaoTooltip&gt;. This means you have a reactive effect that is mutating its own dependencies and thus recursively triggering itself. Possible sources include component template, render function, updated hook or watcher source function.
+[Vue warn]: Maximum recursive updates exceeded in component &lt;DaoTooltip&gt;. This means you have a reactive effect that is mutating its own dependencies and thus recursively triggering itself. Possible sources include component template, render function, updated hook or watcher source function.
+[Vue warn]: Maximum recursive updates exceeded in component &lt;DaoTooltip&gt;. This means you have a reactive effect that is mutating its own dependencies and thus recursively triggering itself. Possible sources include component template, render function, updated hook or watcher source function.
+[Vue warn]: Maximum recursive updates exceeded in component &lt;DaoTooltip&gt;. This means you have a reactive effect that is mutating its own dependencies and thus recursively triggering itself. Possible sources include component template, render function, updated hook or watcher source function.
+[Vue warn]: Maximum recursive updates exceeded in component &lt;DaoTooltip&gt;. This means you have a reactive effect that is mutating its own dependencies and thus recursively triggering itself. Possible sources include component template, render function, updated hook or watcher source function.
+[Vue warn]: Maximum recursive updates exceeded in component &lt;DaoTooltip&gt;. This means you have a reactive effect that is mutating its own dependencies and thus recursively triggering itself. Possible sources include component template, render function, updated hook or watcher source function.
+[Vue warn]: Maximum recursive updates exceeded in component &lt;DaoTooltip&gt;. This means you have a reactive effect that is mutating its own dependencies and thus recursively triggering itself. Possible sources include component template, render function, updated hook or watcher source function.
+[Vue warn]: Maximum recursive updates exceeded in component &lt;DaoTooltip&gt;. This means you have a reactive effect that is mutating its own dependencies and thus recursively triggering itself. Possible sources include component template, render function, updated hook or watcher source function.
+[Vue warn]: Maximum recursive updates exceeded in component &lt;DaoTooltip&gt;. This means you have a reactive effect that is mutating its own dependencies and thus recursively triggering itself. Possible sources include component template, render function, updated hook or watcher source function.
+[Vue warn]: Maximum recursive updates exceeded in component &lt;DaoTooltip&gt;. This means you have a reactive effect that is mutating its own dependencies and thus recursively triggering itself. Possible sources include component template, render function, updated hook or watcher source function.
+[Vue warn]: Maximum recursive updates exceeded in component &lt;DaoTooltip&gt;. This means you have a reactive effect that is mutating its own dependencies and thus recursively triggering itself. Possible sources include component template, render function, updated hook or watcher source function.
+[Vue warn]: Maximum recursive updates exceeded in component &lt;DaoTooltip&gt;. This means you have a reactive effect that is mutating its own dependencies and thus recursively triggering itself. Possible sources include component template, render function, updated hook or watcher source function.
+[Vue warn]: Maximum recursive updates exceeded in component &lt;DaoTooltip&gt;. This means you have a reactive effect that is mutating its own dependencies and thus recursively triggering itself. Possible sources include component template, render function, updated hook or watcher source function.
+
+            </system-err>
+        </testcase>
+        <testcase classname="src/components/key-value-layout/test/key-value-layout.spec.ts" name="KeyValue-layout Component &gt; render direction props" time="0.758">
+            <system-err>
+[Vue warn]: Maximum recursive updates exceeded in component &lt;DaoTooltip&gt;. This means you have a reactive effect that is mutating its own dependencies and thus recursively triggering itself. Possible sources include component template, render function, updated hook or watcher source function.
+[Vue warn]: Maximum recursive updates exceeded in component &lt;DaoTooltip&gt;. This means you have a reactive effect that is mutating its own dependencies and thus recursively triggering itself. Possible sources include component template, render function, updated hook or watcher source function.
+[Vue warn]: Maximum recursive updates exceeded in component &lt;DaoTooltip&gt;. This means you have a reactive effect that is mutating its own dependencies and thus recursively triggering itself. Possible sources include component template, render function, updated hook or watcher source function.
+[Vue warn]: Maximum recursive updates exceeded in component &lt;DaoTooltip&gt;. This means you have a reactive effect that is mutating its own dependencies and thus recursively triggering itself. Possible sources include component template, render function, updated hook or watcher source function.
+[Vue warn]: Maximum recursive updates exceeded in component &lt;DaoTooltip&gt;. This means you have a reactive effect that is mutating its own dependencies and thus recursively triggering itself. Possible sources include component template, render function, updated hook or watcher source function.
+[Vue warn]: Maximum recursive updates exceeded in component &lt;DaoTooltip&gt;. This means you have a reactive effect that is mutating its own dependencies and thus recursively triggering itself. Possible sources include component template, render function, updated hook or watcher source function.
+[Vue warn]: Maximum recursive updates exceeded in component &lt;DaoTooltip&gt;. This means you have a reactive effect that is mutating its own dependencies and thus recursively triggering itself. Possible sources include component template, render function, updated hook or watcher source function.
+[Vue warn]: Maximum recursive updates exceeded in component &lt;DaoTooltip&gt;. This means you have a reactive effect that is mutating its own dependencies and thus recursively triggering itself. Possible sources include component template, render function, updated hook or watcher source function.
+[Vue warn]: Maximum recursive updates exceeded in component &lt;DaoTooltip&gt;. This means you have a reactive effect that is mutating its own dependencies and thus recursively triggering itself. Possible sources include component template, render function, updated hook or watcher source function.
+[Vue warn]: Maximum recursive updates exceeded in component &lt;DaoTooltip&gt;. This means you have a reactive effect that is mutating its own dependencies and thus recursively triggering itself. Possible sources include component template, render function, updated hook or watcher source function.
+[Vue warn]: Maximum recursive updates exceeded in component &lt;DaoTooltip&gt;. This means you have a reactive effect that is mutating its own dependencies and thus recursively triggering itself. Possible sources include component template, render function, updated hook or watcher source function.
+[Vue warn]: Maximum recursive updates exceeded in component &lt;DaoTooltip&gt;. This means you have a reactive effect that is mutating its own dependencies and thus recursively triggering itself. Possible sources include component template, render function, updated hook or watcher source function.
+[Vue warn]: Maximum recursive updates exceeded in component &lt;DaoTooltip&gt;. This means you have a reactive effect that is mutating its own dependencies and thus recursively triggering itself. Possible sources include component template, render function, updated hook or watcher source function.
+[Vue warn]: Maximum recursive updates exceeded in component &lt;DaoTooltip&gt;. This means you have a reactive effect that is mutating its own dependencies and thus recursively triggering itself. Possible sources include component template, render function, updated hook or watcher source function.
+
+            </system-err>
+        </testcase>
+        <testcase classname="src/components/key-value-layout/test/key-value-layout.spec.ts" name="KeyValue-layout Component &gt; render default slot" time="0.091">
+        </testcase>
+        <testcase classname="src/components/key-value-layout/test/key-value-layout.spec.ts" name="KeyValue-layout Component &gt; render data with slot" time="0.021">
+        </testcase>
+    </testsuite>
+    <testsuite name="src/components/key-value-layout/test/key-value-layout-item.spec.ts" timestamp="2022-12-14T03:30:39.020Z" hostname="sulinghaodeMacBook-Pro.local" tests="4" failures="0" errors="0" skipped="0" time="0.615">
+        <testcase classname="src/components/key-value-layout/test/key-value-layout-item.spec.ts" name="KeyValueLayoutItem Component &gt; render data props" time="0.243">
+            <system-err>
+[Vue warn]: Maximum recursive updates exceeded in component &lt;DaoTooltip&gt;. This means you have a reactive effect that is mutating its own dependencies and thus recursively triggering itself. Possible sources include component template, render function, updated hook or watcher source function.
+[Vue warn]: Maximum recursive updates exceeded in component &lt;DaoTooltip&gt;. This means you have a reactive effect that is mutating its own dependencies and thus recursively triggering itself. Possible sources include component template, render function, updated hook or watcher source function.
+[Vue warn]: Maximum recursive updates exceeded in component &lt;DaoTooltip&gt;. This means you have a reactive effect that is mutating its own dependencies and thus recursively triggering itself. Possible sources include component template, render function, updated hook or watcher source function.
+[Vue warn]: Maximum recursive updates exceeded in component &lt;DaoTooltip&gt;. This means you have a reactive effect that is mutating its own dependencies and thus recursively triggering itself. Possible sources include component template, render function, updated hook or watcher source function.
+
+            </system-err>
+        </testcase>
+        <testcase classname="src/components/key-value-layout/test/key-value-layout-item.spec.ts" name="KeyValueLayoutItem Component &gt; test props tip" time="0.004">
+        </testcase>
+        <testcase classname="src/components/key-value-layout/test/key-value-layout-item.spec.ts" name="KeyValueLayoutItem Component &gt; test props value" time="0.353">
+            <system-err>
+[Vue warn]: Maximum recursive updates exceeded in component &lt;DaoTooltip&gt;. This means you have a reactive effect that is mutating its own dependencies and thus recursively triggering itself. Possible sources include component template, render function, updated hook or watcher source function.
+[Vue warn]: Maximum recursive updates exceeded in component &lt;DaoTooltip&gt;. This means you have a reactive effect that is mutating its own dependencies and thus recursively triggering itself. Possible sources include component template, render function, updated hook or watcher source function.
+[Vue warn]: Maximum recursive updates exceeded in component &lt;DaoTooltip&gt;. This means you have a reactive effect that is mutating its own dependencies and thus recursively triggering itself. Possible sources include component template, render function, updated hook or watcher source function.
+[Vue warn]: Maximum recursive updates exceeded in component &lt;DaoTooltip&gt;. This means you have a reactive effect that is mutating its own dependencies and thus recursively triggering itself. Possible sources include component template, render function, updated hook or watcher source function.
+[Vue warn]: Maximum recursive updates exceeded in component &lt;DaoTooltip&gt;. This means you have a reactive effect that is mutating its own dependencies and thus recursively triggering itself. Possible sources include component template, render function, updated hook or watcher source function.
+[Vue warn]: Maximum recursive updates exceeded in component &lt;DaoTooltip&gt;. This means you have a reactive effect that is mutating its own dependencies and thus recursively triggering itself. Possible sources include component template, render function, updated hook or watcher source function.
+[Vue warn]: Maximum recursive updates exceeded in component &lt;DaoTooltip&gt;. This means you have a reactive effect that is mutating its own dependencies and thus recursively triggering itself. Possible sources include component template, render function, updated hook or watcher source function.
+[Vue warn]: Maximum recursive updates exceeded in component &lt;DaoTooltip&gt;. This means you have a reactive effect that is mutating its own dependencies and thus recursively triggering itself. Possible sources include component template, render function, updated hook or watcher source function.
+
+            </system-err>
+        </testcase>
+        <testcase classname="src/components/key-value-layout/test/key-value-layout-item.spec.ts" name="KeyValueLayoutItem Component &gt; should render slot" time="0.014">
+        </testcase>
+    </testsuite>
+    <testsuite name="src/components/key-value-editor/test/key-value-editor.spec.ts" timestamp="2022-12-14T03:30:39.020Z" hostname="sulinghaodeMacBook-Pro.local" tests="7" failures="0" errors="0" skipped="0" time="0.104">
+        <testcase classname="src/components/key-value-editor/test/key-value-editor.spec.ts" name="DaoKeyValueEditor component &gt; render default key-value-editor" time="0.025">
+        </testcase>
+        <testcase classname="src/components/key-value-editor/test/key-value-editor.spec.ts" name="DaoKeyValueEditor component &gt; render with input value" time="0.014">
+        </testcase>
+        <testcase classname="src/components/key-value-editor/test/key-value-editor.spec.ts" name="DaoKeyValueEditor component &gt; render with event" time="0.006">
+        </testcase>
+        <testcase classname="src/components/key-value-editor/test/key-value-editor.spec.ts" name="DaoKeyValueEditor component &gt; render with props" time="0.01">
+        </testcase>
+        <testcase classname="src/components/key-value-editor/test/key-value-editor.spec.ts" name="DaoKeyValueEditor component &gt; render with operator" time="0.034">
+        </testcase>
+        <testcase classname="src/components/key-value-editor/test/key-value-editor.spec.ts" name="DaoKeyValueEditor component &gt; render with disabled" time="0.007">
+        </testcase>
+        <testcase classname="src/components/key-value-editor/test/key-value-editor.spec.ts" name="DaoKeyValueEditor component &gt; render with change modelValue" time="0.008">
+        </testcase>
+    </testsuite>
+    <testsuite name="src/layouts/modal-layout/test/modal-layout.spec.ts" timestamp="2022-12-14T03:30:39.021Z" hostname="sulinghaodeMacBook-Pro.local" tests="11" failures="0" errors="0" skipped="0" time="0.075">
+        <testcase classname="src/layouts/modal-layout/test/modal-layout.spec.ts" name="ModalLayout component &gt; test props type &amp; paddingX" time="0.027">
+        </testcase>
+        <testcase classname="src/layouts/modal-layout/test/modal-layout.spec.ts" name="ModalLayout component &gt; test props title" time="0.005">
+        </testcase>
+        <testcase classname="src/layouts/modal-layout/test/modal-layout.spec.ts" name="ModalLayout component &gt; test props hideFooter" time="0.005">
+        </testcase>
+        <testcase classname="src/layouts/modal-layout/test/modal-layout.spec.ts" name="ModalLayout component &gt; test props confirmLoading &amp; confirmDisabled" time="0.008">
+        </testcase>
+        <testcase classname="src/layouts/modal-layout/test/modal-layout.spec.ts" name="ModalLayout component &gt; test slots title" time="0.005">
+        </testcase>
+        <testcase classname="src/layouts/modal-layout/test/modal-layout.spec.ts" name="ModalLayout component &gt; test slots header" time="0.005">
+        </testcase>
+        <testcase classname="src/layouts/modal-layout/test/modal-layout.spec.ts" name="ModalLayout component &gt; test slots before content" time="0.004">
+        </testcase>
+        <testcase classname="src/layouts/modal-layout/test/modal-layout.spec.ts" name="ModalLayout component &gt; test slots default" time="0.002">
+        </testcase>
+        <testcase classname="src/layouts/modal-layout/test/modal-layout.spec.ts" name="ModalLayout component &gt; test slots footer" time="0.002">
+        </testcase>
+        <testcase classname="src/layouts/modal-layout/test/modal-layout.spec.ts" name="ModalLayout component &gt; test slots confirm" time="0.008">
+        </testcase>
+        <testcase classname="src/layouts/modal-layout/test/modal-layout.spec.ts" name="ModalLayout component &gt; test slots cancel" time="0.004">
+        </testcase>
+    </testsuite>
+    <testsuite name="src/layouts/step-layout/test/step-layout.spec.ts" timestamp="2022-12-14T03:30:39.022Z" hostname="sulinghaodeMacBook-Pro.local" tests="6" failures="0" errors="0" skipped="0" time="0.138">
+        <testcase classname="src/layouts/step-layout/test/step-layout.spec.ts" name="Step Modal component &gt; test props steps" time="0.039">
+        </testcase>
+        <testcase classname="src/layouts/step-layout/test/step-layout.spec.ts" name="Step Modal component &gt; test props curIndex" time="0.024">
+        </testcase>
+        <testcase classname="src/layouts/step-layout/test/step-layout.spec.ts" name="Step Modal component &gt; test props before next &amp;&amp; pre" time="0.019">
+        </testcase>
+        <testcase classname="src/layouts/step-layout/test/step-layout.spec.ts" name="Step Modal component &gt; test slots stepper" time="0.012">
+        </testcase>
+        <testcase classname="src/layouts/step-layout/test/step-layout.spec.ts" name="Step Modal component &gt; test slots specified step" time="0.023">
+        </testcase>
+        <testcase classname="src/layouts/step-layout/test/step-layout.spec.ts" name="Step Modal component &gt; test events" time="0.02">
+        </testcase>
+    </testsuite>
+    <testsuite name="src/components/noty/test/create-noty.spec.ts" timestamp="2022-12-14T03:30:39.022Z" hostname="sulinghaodeMacBook-Pro.local" tests="2" failures="0" errors="0" skipped="0" time="0.023">
+        <testcase classname="src/components/noty/test/create-noty.spec.ts" name="test create noty &gt; call noty before mount, will trigger correctly after mount" time="0.022">
+        </testcase>
+        <testcase classname="src/components/noty/test/create-noty.spec.ts" name="test create noty &gt; call noty before mount, but close before mount" time="0.001">
+        </testcase>
+    </testsuite>
+    <testsuite name="src/components/confirm-dialog-footer/test/confirm-dialog-footer.spec.ts" timestamp="2022-12-14T03:30:39.023Z" hostname="sulinghaodeMacBook-Pro.local" tests="4" failures="0" errors="0" skipped="0" time="0.052">
+        <testcase classname="src/components/confirm-dialog-footer/test/confirm-dialog-footer.spec.ts" name="ConfirmDialogFooter component &gt; render default footer" time="0.028">
+            <system-err>
+[Vue warn]: Missing required prop: &quot;text&quot; 
+  at &lt;DaoConfirmFooterDialog confirmText=&quot;Danger&quot; cancelText=&quot;Next&quot; ref=&quot;VTU_COMPONENT&quot; &gt; 
+  at &lt;VTUROOT&gt;
+[Vue warn]: Invalid VNode type: [90mundefined[39m (undefined) 
+  at &lt;Anonymous keypath=&quot;extend.confirmDialogFooter.placeholder.input&quot; tag=&quot;label&quot; class=&quot;dao-confirm-dialog-footer__label&quot;  ... &gt; 
+  at &lt;DaoConfirmFooterDialog confirmText=&quot;Danger&quot; cancelText=&quot;Next&quot; ref=&quot;VTU_COMPONENT&quot; &gt; 
+  at &lt;VTUROOT&gt;
+
+            </system-err>
+        </testcase>
+        <testcase classname="src/components/confirm-dialog-footer/test/confirm-dialog-footer.spec.ts" name="ConfirmDialogFooter component &gt; render with placeholder" time="0.003">
+            <system-err>
+[Vue warn]: Missing required prop: &quot;text&quot; 
+  at &lt;DaoConfirmFooterDialog placeholder=&quot;placeholder1&quot; ref=&quot;VTU_COMPONENT&quot; &gt; 
+  at &lt;VTUROOT&gt;
+
+            </system-err>
+        </testcase>
+        <testcase classname="src/components/confirm-dialog-footer/test/confirm-dialog-footer.spec.ts" name="ConfirmDialogFooter component &gt; render with text" time="0.008">
+        </testcase>
+        <testcase classname="src/components/confirm-dialog-footer/test/confirm-dialog-footer.spec.ts" name="ConfirmDialogFooter component &gt; render with emit event" time="0.011">
+            <system-err>
+[Vue warn]: Missing required prop: &quot;text&quot; 
+  at &lt;DaoConfirmFooterDialog ref=&quot;VTU_COMPONENT&quot; &gt; 
+  at &lt;VTUROOT&gt;
+[Vue warn]: Invalid VNode type: [90mundefined[39m (undefined) 
+  at &lt;Anonymous keypath=&quot;extend.confirmDialogFooter.placeholder.input&quot; tag=&quot;label&quot; class=&quot;dao-confirm-dialog-footer__label&quot;  ... &gt; 
+  at &lt;DaoConfirmFooterDialog ref=&quot;VTU_COMPONENT&quot; &gt; 
+  at &lt;VTUROOT&gt;
+
+            </system-err>
+        </testcase>
+    </testsuite>
+    <testsuite name="src/components/hover-card/test/hover-card.spec.ts" timestamp="2022-12-14T03:30:39.023Z" hostname="sulinghaodeMacBook-Pro.local" tests="3" failures="0" errors="0" skipped="0" time="0.873">
+        <testcase classname="src/components/hover-card/test/hover-card.spec.ts" name="HoverCard Component &gt; render multiple" time="0.686">
+            <system-err>
+[Vue warn]: Maximum recursive updates exceeded in component &lt;DaoPopover&gt;. This means you have a reactive effect that is mutating its own dependencies and thus recursively triggering itself. Possible sources include component template, render function, updated hook or watcher source function.
+[Vue warn]: Maximum recursive updates exceeded in component &lt;DaoPopover&gt;. This means you have a reactive effect that is mutating its own dependencies and thus recursively triggering itself. Possible sources include component template, render function, updated hook or watcher source function.
+
+            </system-err>
+        </testcase>
+        <testcase classname="src/components/hover-card/test/hover-card.spec.ts" name="HoverCard Component &gt; render single" time="0.183">
+            <system-err>
+[Vue warn]: Maximum recursive updates exceeded in component &lt;DaoPopover&gt;. This means you have a reactive effect that is mutating its own dependencies and thus recursively triggering itself. Possible sources include component template, render function, updated hook or watcher source function.
+[Vue warn]: Maximum recursive updates exceeded in component &lt;DaoPopover&gt;. This means you have a reactive effect that is mutating its own dependencies and thus recursively triggering itself. Possible sources include component template, render function, updated hook or watcher source function.
+
+            </system-err>
+        </testcase>
+        <testcase classname="src/components/hover-card/test/hover-card.spec.ts" name="HoverCard Component &gt; render empty" time="0.003">
+        </testcase>
+    </testsuite>
+    <testsuite name="src/uses/useDialogWrapper/test/dialog-wrapper.spec.ts" timestamp="2022-12-14T03:30:39.023Z" hostname="sulinghaodeMacBook-Pro.local" tests="4" failures="0" errors="0" skipped="0" time="0.792">
+        <testcase classname="src/uses/useDialogWrapper/test/dialog-wrapper.spec.ts" name="DialogWrapper component &gt; render after show method invoke" time="0.415">
+            <system-err>
+[intlify] Not found &apos;core.dialog.confirm&apos; key in &apos;zh-CN&apos; locale messages.
+[intlify] Fall back to translate &apos;core.dialog.confirm&apos; key with &apos;zh&apos; locale.
+[intlify] Not found &apos;core.dialog.confirm&apos; key in &apos;zh&apos; locale messages.
+[intlify] Fall back to translate &apos;core.dialog.confirm&apos; key with &apos;en-US&apos; locale.
+[intlify] Not found &apos;core.dialog.confirm&apos; key in &apos;en-US&apos; locale messages.
+[intlify] Fall back to translate &apos;core.dialog.confirm&apos; key with &apos;en&apos; locale.
+[intlify] Not found &apos;core.dialog.confirm&apos; key in &apos;en&apos; locale messages.
+[intlify] Not found &apos;core.dialog.cancel&apos; key in &apos;zh-CN&apos; locale messages.
+[intlify] Fall back to translate &apos;core.dialog.cancel&apos; key with &apos;zh&apos; locale.
+[intlify] Not found &apos;core.dialog.cancel&apos; key in &apos;zh&apos; locale messages.
+[intlify] Fall back to translate &apos;core.dialog.cancel&apos; key with &apos;en-US&apos; locale.
+[intlify] Not found &apos;core.dialog.cancel&apos; key in &apos;en-US&apos; locale messages.
+[intlify] Fall back to translate &apos;core.dialog.cancel&apos; key with &apos;en&apos; locale.
+[intlify] Not found &apos;core.dialog.cancel&apos; key in &apos;en&apos; locale messages.
+[Vue warn]: Maximum recursive updates exceeded in component &lt;DaoTooltip&gt;. This means you have a reactive effect that is mutating its own dependencies and thus recursively triggering itself. Possible sources include component template, render function, updated hook or watcher source function.
+[Vue warn]: Maximum recursive updates exceeded in component &lt;DaoTooltip&gt;. This means you have a reactive effect that is mutating its own dependencies and thus recursively triggering itself. Possible sources include component template, render function, updated hook or watcher source function.
+
+            </system-err>
+        </testcase>
+        <testcase classname="src/uses/useDialogWrapper/test/dialog-wrapper.spec.ts" name="DialogWrapper component &gt; props passed into dialog" time="0.163">
+            <system-err>
+[intlify] Not found &apos;core.dialog.confirm&apos; key in &apos;zh-CN&apos; locale messages.
+[intlify] Fall back to translate &apos;core.dialog.confirm&apos; key with &apos;zh&apos; locale.
+[intlify] Not found &apos;core.dialog.confirm&apos; key in &apos;zh&apos; locale messages.
+[intlify] Fall back to translate &apos;core.dialog.confirm&apos; key with &apos;en-US&apos; locale.
+[intlify] Not found &apos;core.dialog.confirm&apos; key in &apos;en-US&apos; locale messages.
+[intlify] Fall back to translate &apos;core.dialog.confirm&apos; key with &apos;en&apos; locale.
+[intlify] Not found &apos;core.dialog.confirm&apos; key in &apos;en&apos; locale messages.
+[intlify] Not found &apos;core.dialog.cancel&apos; key in &apos;zh-CN&apos; locale messages.
+[intlify] Fall back to translate &apos;core.dialog.cancel&apos; key with &apos;zh&apos; locale.
+[intlify] Not found &apos;core.dialog.cancel&apos; key in &apos;zh&apos; locale messages.
+[intlify] Fall back to translate &apos;core.dialog.cancel&apos; key with &apos;en-US&apos; locale.
+[intlify] Not found &apos;core.dialog.cancel&apos; key in &apos;en-US&apos; locale messages.
+[intlify] Fall back to translate &apos;core.dialog.cancel&apos; key with &apos;en&apos; locale.
+[intlify] Not found &apos;core.dialog.cancel&apos; key in &apos;en&apos; locale messages.
+[Vue warn]: Maximum recursive updates exceeded in component &lt;DaoTooltip&gt;. This means you have a reactive effect that is mutating its own dependencies and thus recursively triggering itself. Possible sources include component template, render function, updated hook or watcher source function.
+[Vue warn]: Maximum recursive updates exceeded in component &lt;DaoTooltip&gt;. This means you have a reactive effect that is mutating its own dependencies and thus recursively triggering itself. Possible sources include component template, render function, updated hook or watcher source function.
+
+            </system-err>
+        </testcase>
+        <testcase classname="src/uses/useDialogWrapper/test/dialog-wrapper.spec.ts" name="DialogWrapper component &gt; unmount after reject method" time="0.139">
+            <system-err>
+[intlify] Not found &apos;core.dialog.confirm&apos; key in &apos;zh-CN&apos; locale messages.
+[intlify] Fall back to translate &apos;core.dialog.confirm&apos; key with &apos;zh&apos; locale.
+[intlify] Not found &apos;core.dialog.confirm&apos; key in &apos;zh&apos; locale messages.
+[intlify] Fall back to translate &apos;core.dialog.confirm&apos; key with &apos;en-US&apos; locale.
+[intlify] Not found &apos;core.dialog.confirm&apos; key in &apos;en-US&apos; locale messages.
+[intlify] Fall back to translate &apos;core.dialog.confirm&apos; key with &apos;en&apos; locale.
+[intlify] Not found &apos;core.dialog.confirm&apos; key in &apos;en&apos; locale messages.
+[intlify] Not found &apos;core.dialog.cancel&apos; key in &apos;zh-CN&apos; locale messages.
+[intlify] Fall back to translate &apos;core.dialog.cancel&apos; key with &apos;zh&apos; locale.
+[intlify] Not found &apos;core.dialog.cancel&apos; key in &apos;zh&apos; locale messages.
+[intlify] Fall back to translate &apos;core.dialog.cancel&apos; key with &apos;en-US&apos; locale.
+[intlify] Not found &apos;core.dialog.cancel&apos; key in &apos;en-US&apos; locale messages.
+[intlify] Fall back to translate &apos;core.dialog.cancel&apos; key with &apos;en&apos; locale.
+[intlify] Not found &apos;core.dialog.cancel&apos; key in &apos;en&apos; locale messages.
+[Vue warn]: Maximum recursive updates exceeded in component &lt;DaoTooltip&gt;. This means you have a reactive effect that is mutating its own dependencies and thus recursively triggering itself. Possible sources include component template, render function, updated hook or watcher source function.
+[Vue warn]: Maximum recursive updates exceeded in component &lt;DaoTooltip&gt;. This means you have a reactive effect that is mutating its own dependencies and thus recursively triggering itself. Possible sources include component template, render function, updated hook or watcher source function.
+
+            </system-err>
+        </testcase>
+        <testcase classname="src/uses/useDialogWrapper/test/dialog-wrapper.spec.ts" name="DialogWrapper component &gt; unmount after resolve method" time="0.074">
+            <system-err>
+[intlify] Not found &apos;core.dialog.confirm&apos; key in &apos;zh-CN&apos; locale messages.
+[intlify] Fall back to translate &apos;core.dialog.confirm&apos; key with &apos;zh&apos; locale.
+[intlify] Not found &apos;core.dialog.confirm&apos; key in &apos;zh&apos; locale messages.
+[intlify] Fall back to translate &apos;core.dialog.confirm&apos; key with &apos;en-US&apos; locale.
+[intlify] Not found &apos;core.dialog.confirm&apos; key in &apos;en-US&apos; locale messages.
+[intlify] Fall back to translate &apos;core.dialog.confirm&apos; key with &apos;en&apos; locale.
+[intlify] Not found &apos;core.dialog.confirm&apos; key in &apos;en&apos; locale messages.
+[intlify] Not found &apos;core.dialog.cancel&apos; key in &apos;zh-CN&apos; locale messages.
+[intlify] Fall back to translate &apos;core.dialog.cancel&apos; key with &apos;zh&apos; locale.
+[intlify] Not found &apos;core.dialog.cancel&apos; key in &apos;zh&apos; locale messages.
+[intlify] Fall back to translate &apos;core.dialog.cancel&apos; key with &apos;en-US&apos; locale.
+[intlify] Not found &apos;core.dialog.cancel&apos; key in &apos;en-US&apos; locale messages.
+[intlify] Fall back to translate &apos;core.dialog.cancel&apos; key with &apos;en&apos; locale.
+[intlify] Not found &apos;core.dialog.cancel&apos; key in &apos;en&apos; locale messages.
+[Vue warn]: Maximum recursive updates exceeded in component &lt;DaoTooltip&gt;. This means you have a reactive effect that is mutating its own dependencies and thus recursively triggering itself. Possible sources include component template, render function, updated hook or watcher source function.
+[Vue warn]: Maximum recursive updates exceeded in component &lt;DaoTooltip&gt;. This means you have a reactive effect that is mutating its own dependencies and thus recursively triggering itself. Possible sources include component template, render function, updated hook or watcher source function.
+
+            </system-err>
+        </testcase>
+    </testsuite>
+    <testsuite name="src/components/history-link/test/history-link.spec.ts" timestamp="2022-12-14T03:30:39.024Z" hostname="sulinghaodeMacBook-Pro.local" tests="3" failures="0" errors="0" skipped="0" time="0.096">
+        <testcase classname="src/components/history-link/test/history-link.spec.ts" name="HistoryLink Component &gt; render a link" time="0.084">
+        </testcase>
+        <testcase classname="src/components/history-link/test/history-link.spec.ts" name="HistoryLink Component &gt; emit push-state" time="0.01">
+        </testcase>
+        <testcase classname="src/components/history-link/test/history-link.spec.ts" name="HistoryLink Component &gt; link &amp; action type" time="0.002">
+        </testcase>
+    </testsuite>
+    <testsuite name="src/components/label-extend/test/label-extend.spec.ts" timestamp="2022-12-14T03:30:39.024Z" hostname="sulinghaodeMacBook-Pro.local" tests="5" failures="0" errors="0" skipped="0" time="0.038">
+        <testcase classname="src/components/label-extend/test/label-extend.spec.ts" name="DaoLabelExtend component &gt; render the default label extend" time="0.015">
+        </testcase>
+        <testcase classname="src/components/label-extend/test/label-extend.spec.ts" name="DaoLabelExtend component &gt; render the label extend with slot" time="0.007">
+        </testcase>
+        <testcase classname="src/components/label-extend/test/label-extend.spec.ts" name="DaoLabelExtend component &gt; render the label extend with color" time="0.001">
+        </testcase>
+        <testcase classname="src/components/label-extend/test/label-extend.spec.ts" name="DaoLabelExtend component &gt; render the label extend with icon name" time="0.012">
+        </testcase>
+        <testcase classname="src/components/label-extend/test/label-extend.spec.ts" name="DaoLabelExtend component &gt; render the label extend with icon font" time="0.002">
+        </testcase>
+    </testsuite>
+    <testsuite name="src/components/empty/test/empty.spec.ts" timestamp="2022-12-14T03:30:39.025Z" hostname="sulinghaodeMacBook-Pro.local" tests="2" failures="0" errors="0" skipped="0" time="0.055">
+        <testcase classname="src/components/empty/test/empty.spec.ts" name="describe &gt; test 1" time="0.039">
+        </testcase>
+        <testcase classname="src/components/empty/test/empty.spec.ts" name="describe &gt; test locale" time="0.015">
+        </testcase>
+    </testsuite>
+</testsuites>
